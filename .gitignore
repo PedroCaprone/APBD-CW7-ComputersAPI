@@ -1,0 +1,22 @@
+# Rider / IntelliJ
+.idea/
+
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# ASP.NET local settings
+appsettings.Development.json
+
+# OS files
+.DS_Store
+Thumbs.db
